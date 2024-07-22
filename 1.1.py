@@ -20,4 +20,5 @@ proxod_smart = smart[k_smart - 1]
 print(k_beauty, proxod_smart)
 
 
+
 #1279 268
